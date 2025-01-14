@@ -1,6 +1,6 @@
 # Conda environment with environment.yml
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stagnu-m/Jupyter-notebooks/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/stagnu-m/BA-source-files/HEAD)
 
 A Binder-compatible repo with an `environment.yml` file.
 
